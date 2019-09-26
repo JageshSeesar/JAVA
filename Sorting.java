@@ -78,7 +78,7 @@ public class Sorting {
 		    	   Scanner Mykey1 = new Scanner(System.in);
 		    	   //to enter values in array
 		    	   System.out.println("");
-		    	   System.out.println("lease enter a list of 6 numbers by pressing 'Enter' after each number you input: ");
+		    	   System.out.println("Please enter a list of 6 numbers by pressing 'Enter' after each number you input: ");
 		    	   for (int i = 0;i<inputArray.length ; i++) {
 		    	   inputArray[i] = Mykey1.nextInt();
 		    	   }
